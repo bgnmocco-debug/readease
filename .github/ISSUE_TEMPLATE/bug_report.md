@@ -1,13 +1,16 @@
 
----
+
 name: Bug report
 about: Report a problem or unexpected behaviour in ReadEase
 title: "[Bug]: "
----
+labels: ''
+assignees: ''
+
+
 
 ## Describe the bug
 
-A clear description of what happened.
+A clear description of the problem.
 
 ## Steps to reproduce
 
@@ -17,7 +20,7 @@ A clear description of what happened.
 
 ## Expected behaviour
 
-What should have happened?
+What did you expect to happen?
 
 ## Actual behaviour
 
